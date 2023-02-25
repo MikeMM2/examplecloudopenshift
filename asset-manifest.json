@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/examplecloudopenshift/static/css/main.123183b8.css",
+    "main.js": "/examplecloudopenshift/static/js/main.cc0eba58.js",
+    "static/media/book-1.jpg": "/examplecloudopenshift/static/media/book-1.e390f2bded6b5e7a8200.jpg",
+    "static/media/book-3.jpg": "/examplecloudopenshift/static/media/book-3.7374c3b753c5bb283283.jpg",
+    "static/media/book-2.jpg": "/examplecloudopenshift/static/media/book-2.14d54e622a78d893efe6.jpg",
+    "index.html": "/examplecloudopenshift/index.html",
+    "main.123183b8.css.map": "/examplecloudopenshift/static/css/main.123183b8.css.map",
+    "main.cc0eba58.js.map": "/examplecloudopenshift/static/js/main.cc0eba58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.123183b8.css",
+    "static/js/main.cc0eba58.js"
+  ]
+}
